@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color:hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,17 +11,17 @@ main {
     background-color: aliceblue;
     box-shadow: 0 5px 15px rgba(0,0,0,0.5);;
     width: 350px;
-    height: 480px;
+    height: 540px;
     margin: 70px ;
     border-radius: 30px;
     
 }
 
 img{
-   padding: 30px;
+   padding: 50px;
    width: 220px;
     background-color: rgba(0, 0, 255, 0.668);
-    margin: 15px 36px;
+    margin: 15px 16px;
 border-radius: 10px;
 }
 
